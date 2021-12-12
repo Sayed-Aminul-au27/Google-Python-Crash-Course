@@ -26,6 +26,15 @@ and a description of the methods.
 
 
 
+
+
+
+
+
+
+
+
+
 Defining Classes (Optional)
 
 We can create and define our classes in Python similar to how we define functions. We start with the class keyword, followed by the name of our class and a colon. Python style guidelines recommend class names to start with a capital letter. After the class definition line is the class body, indented to the right. Inside the class body, we can define attributes for the class.
